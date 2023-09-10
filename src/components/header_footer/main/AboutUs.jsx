@@ -1,7 +1,7 @@
 import snappy from "../../../assets/images/snappy.png"
 import prices from "../../../assets/images/prices.png"
 import people from "../../../assets/images/people.png"
-import navLines4Fix from "../../../assets/images/navLines4-fix.svg"
+import navLines4Fix from "../../../assets/images/navlines4Fix.svg"
 
 const flexData = [
     {
